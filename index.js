@@ -26,4 +26,6 @@ function clickHandler(){
         outputText.innerHTML = translatedText
     })
     .catch(errorHandler)
+
 }
+
