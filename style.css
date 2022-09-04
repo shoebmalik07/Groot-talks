@@ -27,6 +27,7 @@ textarea{
     border: none;
     border-radius: 5px;
     background-color: antiquewhite;
+    padding:1.2rem;
 }
 
 button{
@@ -34,6 +35,12 @@ button{
     background-color: antiquewhite;
     padding: 10px;
     border-radius: 10px;
+    border: 0.5px solid lightsteelblue;
+}
+button:hover{
+    color: white ;
+    background-color: lightsteelblue;
+    border: 0.5px solid white;
 }
 
 
